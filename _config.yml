@@ -22,7 +22,7 @@ avatar_image: /img/my_profile_picture_Cropped.JPG
 
 #-------------------------------
 # Contact links
-linkedln: "https://www.linkedin.com/in/edwina-abam/" # Add your linkedln handle
+linkedln: "https://linkedin.com/in/edwina-abam/" # Add your linkedln handle
 github: "https://github.com/edwinaabam"  # Add your github handle
 
 paginate: 6
@@ -51,6 +51,7 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
