@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Edwina Borteley Abam
-description: "Hi I'm Edwina, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi I'm Edwina, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my CV) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -18,6 +18,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
 location: "Nottingham, UK"
 #resume_url: /docs/resume.docx
+cv_url: /docs/EdwinaAbamDS_CV_0326.pdf
 avatar_image: /img/headshotpic.png
 
 #-------------------------------
@@ -51,6 +52,7 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
 
